@@ -1,4 +1,4 @@
-## Hi there, I'm Miguel - aka [Zambiie] 👋
+## Hi there, I'm Miguel 👋
 
 
 ### I'm a Gamer, IT Mastermind and Wannabe Developer! 
