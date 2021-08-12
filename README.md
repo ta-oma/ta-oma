@@ -1,7 +1,7 @@
-### Hi there, I'm Miguel - aka [Zambiie] 👋
+## Hi there, I'm Miguel - aka [Zambiie] 👋
 
 
-## I'm a Gamer, IT Mastermind and Wannabe Developer! 
+### I'm a Gamer, IT Mastermind and Wannabe Developer! 
 
 ## Hobbies 🕹️
 
