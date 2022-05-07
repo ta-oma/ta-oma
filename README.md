@@ -15,13 +15,13 @@
 
 - 📜 Finishing my Computer Engineering Degree
 - 🎲 Working as IT for a Gaming Company
-- 📚 Learning MERN Stack
+- 📚 Learning Cloud
 
-## Goals for 2020/2021:
+## Goals for 2022/2023:
 
 - 👯 Become skilled in Full-Stack Web Dev
 - 🥅 Build a Portfolio/ Website
-- ⚡ Learn Network/CyberSec
+- ⚡ Get Azure certified
 
 
 ### Spotify Playing 🎧
