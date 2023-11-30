@@ -1,7 +1,7 @@
 ## Hi there, I'm Miguel 👋
 
 
-### I'm a Gamer, IT Mastermind and Wannabe Developer! 
+### Part time IT Mastermind, Full-time what am I doing? 
 
 ## Hobbies 🕹️
 
@@ -13,15 +13,15 @@
 
 ## 💼 Things I'm currently working on:
 
-- 📜 Finishing my Computer Engineering Degree
-- 🎲 Working as IT for a Gaming Company
+- 📜 Certifying in Cybersec
+- 🎲 Working Sys Admin for a Sports Company
 - 📚 Learning Cloud
 
-## Goals for 2022/2023:
+## Goals for 2024:
 
-- 👯 Become skilled in Full-Stack Web Dev
-- 🥅 Build a Portfolio/ Website
-- ⚡ Get Azure certified
+- 👯 Work on my mental health
+- 🥅 Get CIS v8 compliance in my company
+- ⚡ Attain 1 cybersecurity-related certification
 
 
 ### Spotify Playing 🎧
