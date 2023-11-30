@@ -13,8 +13,8 @@
 
 ## 💼 Things I'm currently working on:
 
-- 📜 Certifying in Cybersec
 - 🎲 Working Sys Admin for a Sports Company
+- 📜 Certifying in Cybersec
 - 📚 Learning Cloud
 
 ## Goals for 2024:
