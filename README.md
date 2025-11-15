@@ -24,6 +24,8 @@ I am an IT Ops Engineer for an European transportation company and have been in 
 
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/42a4fbc1-32b3-4e48-9cc4-5712e8e0c287" title="Jamf Certified Associate - Jamf Pro"><img src="https://images.credly.com/size/80x80/images/62bbd4cd-0ef3-450d-9d9b-160676e9dc47/blob" alt="Jamf Certified Associate - Jamf Pro" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4c76eaf3-e427-4abb-85f9-5120c4fcd8a8" title="ISO/IEC 27001:2022 Lead Auditor"><img src="https://images.credly.com/size/80x80/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" alt="ISO/IEC 27001:2022 Lead Auditor" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <picture>
