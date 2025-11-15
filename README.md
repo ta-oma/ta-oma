@@ -12,12 +12,12 @@
 
 My name is Miguel.
 
-I am a Security Engineer for a wellness company and have been in IT Ops for over 10 years.
+I am an IT Ops Engineer for an European transportation company and have been in IT Operations for over 10 years.
 
 
 ## What I am doing:
 
-- 💪 Working as a Security Engineer for a wellness company
+- 💪 Working in IT
 - 📚 I am learning a lot about Cloud, Security, and I'm taking multiple certifications. 
 - 🎶 I am passionate about classical music and I play the piano
 - 🎞️ I love video games and might develop one of my own in the future :)
