@@ -23,7 +23,8 @@ I am an IT Ops Engineer for an European transportation company and have been in 
 - 🎞️ I love video games and might develop one of my own in the future :)
 
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
